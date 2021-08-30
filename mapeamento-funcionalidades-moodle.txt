@@ -1,0 +1,11 @@
+- Administração do site > Usuários > Contas > Adicionar um novo usuário - Cadastro de usuário com username e e-mail 
+- Administração do site > Usuários > Contas > Lista de usuários > Ícone de engrenagem - Edição (e inativação) de usuários
+- Administração do site > Cursos > Cursos > Adicionar um novo curso - Cria um curso com seu nome e acrônimo
+- Administração do site > Cursos > Cursos > Gerenciar cursos e categorias > Buscar por nome do curso > Ícone de engrenagem do curso que aparece como resultado - Edição de cursos
+- Administração do site > Cursos > Cursos > Gerenciar cursos e categorias > Buscar por nome do curso > Nome do curso > Usuários inscritos > Inscrever usuários - Atribui usuário a curso com o respectivo papel dele no curso
+- Administração do site > Cursos > Cursos > Gerenciar cursos e categorias > Nome do curso > Ver > Adicionar uma atividade ou recurso > Formato de avaliação (http://localhost/course/modedit.php?add=assign&type=&course=2&section=0&return=0&sr=0) - Adição de atividade para entrega
+- Curso existente > Atividade existente > Ícone de engrenagem > Editar configurações (http://localhost/course/modedit.php?update=2&return=1) - Edição de atividades
+- Entrar como estudante > Curso existente > Atividade existente > Adicionar envio > Enviar arquivo > Salvar mudanças (http://localhost/mod/assign/view.php?id=5&action=editsubmission) - Entrega de atividades 
+
+
+
